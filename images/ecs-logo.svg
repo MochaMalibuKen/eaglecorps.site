@@ -1,0 +1,52 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .eagle { fill: #0052CC; }
+    </style>
+  </defs>
+  
+  <!-- Side Profile Eagle Silhouette -->
+  <g class="eagle">
+    <!-- Head -->
+    <circle cx="60" cy="50" r="18"/>
+    
+    <!-- Sharp, powerful beak - pointing right -->
+    <path d="M 75 50 L 100 48 L 98 54 Z"/>
+    
+    <!-- Neck -->
+    <path d="M 65 65 L 70 80"/>
+    
+    <!-- Body - powerful and full -->
+    <ellipse cx="80" cy="100" rx="28" ry="32"/>
+    
+    <!-- Upper wing - dramatically extended -->
+    <path d="M 70 85 L 35 75 L 20 85 L 25 95 L 50 92 L 72 98 Z"/>
+    
+    <!-- Lower wing - extended down -->
+    <path d="M 75 105 L 30 115 L 15 125 L 20 135 L 45 125 L 75 120 Z"/>
+    
+    <!-- Wing feathers - left side (detailed) -->
+    <path d="M 40 80 L 22 90"/>
+    <path d="M 30 88 L 18 105"/>
+    <path d="M 28 110 L 15 130"/>
+    <path d="M 35 118 L 22 140"/>
+    
+    <!-- Tail - broad and powerful spreading down-right -->
+    <path d="M 100 95 L 140 80 L 155 100 L 150 120 L 125 115 Z"/>
+    
+    <!-- Tail feathers -->
+    <path d="M 130 85 L 150 75"/>
+    <path d="M 138 100 L 160 95"/>
+    <path d="M 135 115 L 155 120"/>
+    
+    <!-- Chest area - muscular -->
+    <path d="M 75 95 L 78 130 L 85 130 L 88 95"/>
+    
+    <!-- Legs (subtle) -->
+    <path d="M 80 130 L 78 145"/>
+    <path d="M 85 130 L 87 145"/>
+    
+    <!-- Eye (small but visible) -->
+    <circle cx="65" cy="45" r="2" fill="white"/>
+  </g>
+</svg>
